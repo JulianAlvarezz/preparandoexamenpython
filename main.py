@@ -37,7 +37,7 @@ while(opcion != 5):
                 # MOSTRAR EL DATO DE LA BANDA bandAuxiliar
                 print(f "id {bandAuxiliar["id"]} --- nombre: {bandAuxiliar["nombre"]}")
             else:
-                print("No se encuentra......")
+                print("No se encuentra.....oeeeee.")
              
     
     elif opcion ==3:
